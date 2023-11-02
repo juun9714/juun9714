@@ -1,9 +1,5 @@
-![Junhee Kwon Banner Image](./sky.jpg)
+![Junhee Kwon Banner Image](./sky.jpg){width=50%}
 <h2>Hey! 👋</h2>
-
-<!-- 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=laxmena.laxmena)](https://github.com/laxmena) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/laxmena?tab=followers)
--->
 
 I'm Junhee Kwon! 
 - <i>Currently:</i> Master Computer Science Student at SungKyunKwan University
@@ -14,19 +10,6 @@ I'm Junhee Kwon!
 - Vehicle to Everything (V2X) Communication for Connected Vehicles
 - Path Finding algorithm in Vehicle Navigation with Machine Learning
 
-<!--  __Check out my GitHub repository:__
-
-<div>
-  <p>
-    <a href="https://github.com/laxmena/PyCalendly">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=PyCalendly" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/laxmena/CloudOrg-Simulator">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=CloudOrg-Simulator" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
--->
 <h2> About June⚡:</h2>
 
 I'm a Graduate Student living in South Korea. 
