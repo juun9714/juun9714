@@ -1,4 +1,4 @@
-![Junhee Kwon Banner Image](./banner.jpg)
+![Junhee Kwon Banner Image](./sky.jpg)
 <!-- <h2 align='center'>Lakshmanan Meiyappan @ Laxmena</h2>
 <p align='center'><b>Graduate Student at University of Illinois at Chicago</b></p> -->
 
@@ -9,7 +9,7 @@
 -->
 
 I'm Junhee Kwon! 
-- <i>Currently:</i> MS CS Student at SungKyunKwan University
+- <i>Currently:</i> Master Computer Science Student at SungKyunKwan University
 - <i>Previously:</i> Bachelor student in Computer Science and Public Administaration major at SungKyunKwan University
 
 <h2>💻 I'm Currently workng on</h2>
@@ -32,7 +32,8 @@ I'm Junhee Kwon!
 -->
 <h2> About June⚡:</h2>
 
-I'm a Graduate Student living in Suwon, South Korea. Outside Tech, I love to read, enjoy music and explore nature outdoors.
+I'm a Graduate Student living in South Korea. 
+Outside Tech, I love to read, enjoy music and explore nature outdoors.
 
  <!--
 - Check out my Blog: [https://laxmena.com](https://laxmena.com)
