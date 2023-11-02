@@ -1,4 +1,4 @@
-![Junhee Kwon Banner Image](./sky.jpg){width=50%}
+![Junhee Kwon Banner Image](./waltz.jpg)
 <h2>Hey! 👋</h2>
 
 I'm Junhee Kwon! 
